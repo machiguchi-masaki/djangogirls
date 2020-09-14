@@ -20,6 +20,7 @@
 
   https://kamatimaru.hatenablog.com/entry/2020/05/06/185545
 
--SECRET_KEYを誤ってGitHubにプッシュしたときの対処法
-https://qiita.com/frosty/items/bb5bc1553f452e5bb8ff
+* SECRET_KEYを誤ってGitHubにプッシュしたときの対処法
+
+  https://qiita.com/frosty/items/bb5bc1553f452e5bb8ff
 ---
